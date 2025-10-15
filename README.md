@@ -202,7 +202,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - **Creator**: iSk
 - **Email**: 
-- **GitHub**: [@balxz](https://github.com/An0nK4ndar)
+- **GitHub**: [@An0nK4ndar](https://github.com/An0nK4ndar)
 
 ---
 
